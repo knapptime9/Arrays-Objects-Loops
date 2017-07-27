@@ -11,7 +11,7 @@ Use the following array to complete tasks 1-3
 let numbers = [ 1, 12, 4, 18, 9, 7, 11, 3, 101, 5, 6 ];
 
 
-/*
+
 1. Return the 4th element in the "numbers" array
 */
 function getFourthNum(){
@@ -23,8 +23,7 @@ function getFourthNum(){
 */
 function smallNums(){
     let smallNums = [];
-    // Your answer here:
-}
+    for (i=0 ; )}
 
 /*
 3. Add 12, 99, and 101 (in that order) to the end of the "numbers" array. Return the "numbers" array.
